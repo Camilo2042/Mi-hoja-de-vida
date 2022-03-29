@@ -1,6 +1,6 @@
 ---
 
-## Mi Hoja de vida
+<center> <h2>Mi Hoja de vida</h1> </center>
 
 ---
 
@@ -10,7 +10,7 @@ Templete Bootstrap: https://templateflip.com/templates/creative-cv/
 
 ---
 
-Visita mi página de mi Hoja de vida en la URL: 
+Visita la página de mi Hoja de vida en la URL: 
 https://camilo2042.github.io/Mi-hoja-de-vida/
 
 
